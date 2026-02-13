@@ -1,5 +1,3 @@
-# Unit-5: Optimize Frontend Performance Using Lazy Loading
-
 ## Experiment-2: Route-Based Lazy Loading in Single Page Application
 
 ---
